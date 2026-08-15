@@ -1,7 +1,7 @@
 {
   "versionCode": 3,
   "versionName": "1.0.2",
-  "apkUrl": "https://samu330.com/dl/Media%20Downloader",
+  "apkUrl": "https://raw.githubusercontent.com/Samu330Pages/db/main/Media%20Downloader/Media%20Downloader.apk",
   "changelog": "Cambios en la nueva versión 1.0.2\n\n• Se han corregido la mayoría de errores.\n• Corrección de guardado de archivos y muestreo automático en galería.\n• Mayor tiempo de espera en funciones."
 }
 
