@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
+  "versionCode": 3,
+  "versionName": "1.0.2",
   "apkUrl": "https://samu330.com/dl/Media%20Downloader",
-  "changelog": "Cambios en la nueva versión 1.0.1\n• Se han habilitado las descargas de Spotify\n• Descargas de playlist y álbumes de Spotify\n• Mejor control de descargas\n• Mejor optimización"
+  "changelog": "Cambios en la nueva versión 1.0.2\n\n• Se han corregido la mayoría de errores.\n• Corrección de guardado de archivos y muestreo automático en galería.\n• Mayor tiempo de espera en funciones."
 }
 
