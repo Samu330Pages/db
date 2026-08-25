@@ -2,7 +2,7 @@
   "versionCode": 5,
   "versionName": "1.0.4",
   "apkUrl": "https://www.samu330.com/dl/Media%20Downloader",
-  "apkDL": "https://raw.githubusercontent.com/Samu330Pages/db/main/Media%20Downloader/Media%20Downloader.apk",
+  "apkDl": "https://raw.githubusercontent.com/Samu330Pages/db/main/Media%20Downloader/Media%20Downloader.apk",
   "changelog": "Cambios en la nueva versión 1.0.4\n\n• Se agregaron las búsquedas y descargas de imágenes, videos, GIF, carruseles de Pinterest\n• se mejoró el manejo de notificaciones\n• se corrigió el modo AMOLED Dark en colores dinámicos\n• se mejoró la verificación en funciones +18\n• se agregó búsqueda y descargas de xHamster\n\nse está mejorando el sistema de descargas de YouTube"
 }
 
