@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.0.5",
+  "versionCode": 7,
+  "versionName": "1.0.6",
   "apkUrl": "https://www.samu330.com/dl/Media%20Downloader",
   "apkDl": "https://raw.githubusercontent.com/Samu330Pages/db/main/Media%20Downloader/Media%20Downloader.apk",
   "changelog": "Cambios en la nueva versión 1.0.5\n\n• se mejoró la lógica de descargas de YouTube, ahora es más fácil descargar videos.\n• se agregaron las búsquedas en Spotify, tracks, álbumes y playlist.\n• se agregaron las búsquedas y descargas de xVideos."
