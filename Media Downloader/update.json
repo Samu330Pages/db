@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.7",
+  "versionCode": 9,
+  "versionName": "1.0.8",
   "apkUrl": "https://www.samu330.com/dl/Media%20Downloader",
   "apkDl": "https://raw.githubusercontent.com/Samu330Pages/db/main/Media%20Downloader/Media%20Downloader.apk",
   "changelog": "Cambios en la nueva versión 1.0.7\n\n• Mayor tiempo de respuesta en descargas.\n• Se mejoró la búsqueda de videos de YouTube.\n• Mejor optimización en las notificaciones.\n• Se agregaron categorías en la sección +18"
